@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @umer-prjmarker
+- 👋 Hi, I’m `Umer Sheikh`
 - 👀 I’m `interested in complex engineering challenges`
 - 🌱 I’m currently `learning to scale open source systems`
 - 💞️ I’m looking to `collaborate on anything flowing within an SDLC process`
